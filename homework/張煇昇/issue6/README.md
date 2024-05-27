@@ -1,4 +1,4 @@
-# jasonlin0301_window
+# John0301_window
 
 # 11304python應用實戰班 
 
@@ -13,4 +13,4 @@ https://meet.google.com/wdk-fzdc-swx
 1. 這是python1
 2. 這是python2
 
-[markdown第一次練習](https://github.com/jasonlin0301/jasonlin0301_window/tree/main/markdown%E7%B7%B4%E7%BF%92)
+[markdown第一次練習](https://github.com/JohnChang88/John_Window/blob/main/markdown%E7%B7%B4%E7%BF%92)
